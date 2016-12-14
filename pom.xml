@@ -17,7 +17,7 @@
 		<derby.version>10.13.1.1</derby.version>
 		<activemq.version>5.14.2</activemq.version>
 		
-		<uid>just checked in a failing test</uid>
+		<uid>back to normal</uid>
 		<pwd>pwd-dummy</pwd>
 	</properties>
 
